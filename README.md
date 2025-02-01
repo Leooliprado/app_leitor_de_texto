@@ -1,35 +1,22 @@
-# Nome do Aplicativo: TextVarbalze
+# TextVerbalize 📚  
+O melhor app de leitura de texto! 🤩  
 
-## Descrição:
+**TextVerbalize** é um aplicativo inovador projetado para facilitar a leitura para pessoas com dificuldades, como dislexia, déficit de atenção ou problemas de visão. Ele converte texto em áudio, proporcionando uma experiência de leitura mais acessível e inclusiva.  
 
-TextVarbalze é um aplicativo inovador desenvolvido para tornar a leitura mais acessível e agradável para pessoas com dificuldades de leitura. Com uma interface intuitiva e recursos personalizáveis, TextVarbalze permite que os usuários convertam texto em áudio e explorem conteúdos escritos de forma mais fácil e eficaz.
+## Recursos Principais:  
+- **🎧 Leitura de texto para áudio**: Transforme qualquer texto em áudio de forma rápida e fácil.  
+- **🔍 Realce de palavras**: Acompanhe a leitura com o realce das palavras sendo lidas.  
+- **🌙 Modo noturno**: Leia ou ouça textos confortavelmente no escuro.  
+- **⏯️ Controle de áudio**: Pause, retome ou ajuste a velocidade da leitura conforme sua preferência.  
 
-## Recursos Principais:
+## Objetivo:  
+O **TextVerbalize** foi criado para promover a inclusão digital, ajudando pessoas com dificuldades de leitura a acessar informações de maneira simples e eficiente.  
 
-Leitura de Texto para Áudio: TextVarbalze oferece uma função de texto para fala (TTS) que converte o texto em áudio com uma voz natural e agradável.
+## Disponibilidade:  
+📥 Disponível para dispositivos Android. Faça o download gratuito clicando no botão abaixo:  
 
-Realce de Palavras: Para ajudar os usuários a acompanhar a leitura auditiva, TextVarbalze realça visualmente as palavras conforme são faladas. Isso facilita a associação entre palavras escritas e suas pronúncias, melhorando a compreensão do texto.
+[Instalar o TextVerbalize](http://44.206.253.220/MeuSite-V2/Apps.html)  
 
-## Modo Noturno: 
-
-TextVarbalze oferece um modo noturno com fundo escuro e texto de alto contraste para facilitar a leitura em ambientes com pouca luz.
-
-Controle de Áudio: TextVarbalze permite que os usuários controlem o áudio, podendo pausar e avançar para frente ou para trás, proporcionando uma experiência de audição mais personalizada e flexível.
-
-## Objetivo:
-
-O objetivo principal do TextVarbalze é proporcionar uma experiência de leitura mais acessível e inclusiva para pessoas com dificuldades de leitura, como dislexia, déficits de atenção ou problemas de visão. Ao oferecer uma maneira fácil e personalizável de acessar e compreender o texto, o aplicativo visa promover a autonomia e a confiança desses usuários.
-
-## Disponibilidade:
-
-TextVarbalze está disponível para download gratuito neste GitHub. Atualmente, o aplicativo está disponível apenas para dispositivos Android. Para instalar, clique em "app-release.apk" e depois em "View raw". Experimente agora uma nova maneira de acessar e compreender o texto com facilidade.
-
-## Criador:
-
-TextVarbalze foi criado por Leonardo de Oliveira Prado. Se você tiver alguma dúvida, sugestão ou comentário, entre em contato com o criador em leonardooliveiraprado2005@gmail.com ou visite o perfil dele no GitHub https://github.com/Leooliprado?tab=repositories.
-
-
-
-
-
+## Criador:  
+Desenvolvido com ❤️ por **Leonardo de Oliveira Prado**.  
 
